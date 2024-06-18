@@ -1,4 +1,4 @@
-# Computer Vision Course Project Proposal
+# Computer Vision Course Project
 ## Using GAN to Generate Facial Images
 
 ### Team Members:
